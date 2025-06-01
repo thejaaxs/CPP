@@ -1,10 +1,11 @@
-#include<iostream>
-using namespace std ;
+#include <iostream>
+using namespace std;
 
-int main(){
+int main()
+{
     printf("Enter the Input : ");
-    string input ;
-    getline(cin,input);
+    string input;
+    getline(cin, input);
     cout << input << endl;
-    return 0 ;
+    return 0;
 }
