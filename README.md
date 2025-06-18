@@ -10,7 +10,7 @@ Welcome to the **C++ Competitive Programming Roadmap**! This structured guide ta
 - 🔹 Constants and Variables   
 - 🔹 Data Types 
 - 🔹 Input and Output
-- 🔹 Operators
+- 🔹 Operators 
 - 🔹 Conditional Statements
 - 🔹 IDEs and Online Judges
  
