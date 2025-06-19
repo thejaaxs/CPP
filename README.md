@@ -7,7 +7,7 @@ Welcome to the **C++ Competitive Programming Roadmap**! This structured guide ta
 ## 📚 Modules Overview
 
 ### ✅ Module 1: C++ Beginner & Online Judges
-- 🔹 Constants and Variables   
+- 🔹 Constants and Variables    
 - 🔹 Data Types 
 - 🔹 Input and Output
 - 🔹 Operators 
