@@ -2,14 +2,6 @@
 
 Welcome to the ultimate C++ Programming course repository! This course covers everything from computer fundamentals to advanced object-oriented programming, STL, file handling, and real-world projects. Whether you're a beginner or brushing up on your C++ skills, this course will guide you from zero to hero.
 
----
-
-## 📚 Course Overview
-
-- **Total Sections:** 27  
-- **Total Lectures:** 280  
-- **Total Duration:** 30h 36m  
-
 This repository contains all concepts explained with hands-on examples, quizzes, and practice problems that follow a structured and beginner-friendly path.
 
 ---
