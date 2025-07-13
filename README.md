@@ -8,7 +8,7 @@ This repository contains all concepts explained with hands-on examples, quizzes,
   
 ## 🧠 Topics Covered 
 
-### 🧰 Fundamentals
+### 🧰 Fundamentals 
 - How Computers Work
 - Number Systems & Conversions
 - Programming Languages & Compilation
