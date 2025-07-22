@@ -10,7 +10,7 @@ This repository contains all concepts explained with hands-on examples, quizzes,
  
 ### 🧰 Fundamentals 
 - How Computers Work
-- Number Systems & Conversions
+- Number Systems & Conversions 
 - Programming Languages & Compilation
 - Operating Systems Basics
 - Flowcharts, Algorithms & Program Development
