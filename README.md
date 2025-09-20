@@ -6,7 +6,7 @@ This repository contains all concepts explained with hands-on examples, quizzes,
  
 ---  
  
-## 🧠 Topics Covered  
+## 🧠 Topics Covered 
 
 ### 🧰 Fundamentals 
 - How Computers Work
