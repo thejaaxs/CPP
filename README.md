@@ -27,7 +27,7 @@ This repository contains all concepts explained with hands-on examples, quizzes,
 - Nested & Compound Conditions
 - Practical Problems and Mini Challenges
 
-### 📊 Arrays & Patterns
+### 📊 Arrays & Patterns 
 - 1D and 2D Arrays
 - Searching & Sorting (Linear, Binary)
 - Pattern Printing with Nested Loops
