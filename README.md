@@ -19,7 +19,7 @@ This repository contains all concepts explained with hands-on examples, quizzes,
 - Setting up Code::Blocks, Dev-C++, Visual Studio, Xcode
 - Writing & Debugging First Program
 - Data Types, Variables, Operators
-- Expressions, Input/Output, and Overflow
+- Expressions, Input/Output, and Overflow 
 
 ### 🔄 Control Structures
 - Conditional Statements (`if`, `else`, `switch`)
